@@ -12,7 +12,7 @@ private class mytest {
     @isTest
     static void getAuthorNameTest() {
         myclass demo = new myclass();
-        System.assertEquals(demo.getAuthorName(), 'Huy Tran');
+        System.assertEquals(demo.getAuthorName(), 'Van Tran');
         // Uncomment the following line to cause a build failure
         // System.assert(false);
     }
